@@ -1,0 +1,554 @@
+{
+  "lite": {
+    "en-eg": {
+      "plan_details": {
+        "plan_title": "LITE",
+        "plan_selection_button": "Start Your Trial",
+        "price": "0.25 USD/month"
+      }
+    },
+    "ar-eg": {
+      "plan_details": {
+        "plan_title": "لايت",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "0.25 دولار أمريكي/شهر"
+      }
+    },
+    "en-ae": {
+      "plan_details": {
+        "plan_title": "LITE",
+        "plan_selection_button": "Start Your Trial",
+        "price": "5.4 USD/month"
+      }
+    },
+    "ar-ae": {
+      "plan_details": {
+        "plan_title": "لايت",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "5.4 دولار أمريكي/شهر"
+      }
+    },
+    "en-dz": {
+      "plan_details": {
+        "plan_title": "LITE",
+        "plan_selection_button": "Start Your Trial",
+        "price": "2.7 USD/month"
+      }
+    },
+    "ar-dz": {
+      "plan_details": {
+        "plan_title": "لايت",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "2.7 دولار أمريكي/شهر"
+      }
+    },
+    "en-dj": {
+      "plan_details": {
+        "plan_title": "LITE",
+        "plan_selection_button": "Start Your Trial",
+        "price": "2.4 USD/month"
+      }
+    },
+    "ar-dj": {
+      "plan_details": {
+        "plan_title": "لايت",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "2.4 دولار أمريكي/شهر"
+      }
+    },
+    "en-td": {
+      "plan_details": {
+        "plan_title": "LITE",
+        "plan_selection_button": "Start Your Trial",
+        "price": "2.4 USD/month"
+      }
+    },
+    "ar-td": {
+      "plan_details": {
+        "plan_title": "لايت",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "2.4 دولار أمريكي/شهر"
+      }
+    },
+    "en-iq": {
+      "plan_details": {
+        "plan_title": "LITE",
+        "plan_selection_button": "Start Your Trial",
+        "price": "2.4 USD/month"
+      }
+    },
+    "ar-iq": {
+      "plan_details": {
+        "plan_title": "لايت",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "2.4 دولار أمريكي/شهر"
+      }
+    },
+    "en-jo": {
+      "plan_details": {
+        "plan_title": "LITE",
+        "plan_selection_button": "Start Your Trial",
+        "price": "2.7 USD/month"
+      }
+    },
+    "ar-jo": {
+      "plan_details": {
+        "plan_title": "لايت",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "2.7 دولار أمريكي/شهر"
+      }
+    },
+    "en-lb": {
+      "plan_details": {
+        "plan_title": "LITE",
+        "plan_selection_button": "Subscribe",
+        "price": "2.4 USD/month"
+      }
+    },
+    "ar-lb": {
+      "plan_details": {
+        "plan_title": "لايت",
+        "plan_selection_button": "اشترك",
+        "price": "2.4 دولار أمريكي/شهر"
+      }
+    },
+    "en-ma": {
+      "plan_details": {
+        "plan_title": "LITE",
+        "plan_selection_button": "Start Your Trial",
+        "price": "2 USD/month"
+      }
+    },
+    "ar-ma": {
+      "plan_details": {
+        "plan_title": "لايت",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "2 دولار أمريكي/شهر"
+      }
+    },
+    "en-om": {
+      "plan_details": {
+        "plan_title": "LITE",
+        "plan_selection_button": "Start Your Trial",
+        "price": "5 USD/month"
+      }
+    },
+    "ar-om": {
+      "plan_details": {
+        "plan_title": "لايت",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "5 دولار أمريكي/شهر"
+      }
+    },
+    "en-tn": {
+      "plan_details": {
+        "plan_title": "LITE",
+        "plan_selection_button": "Start Your Trial",
+        "price": "1.7 USD/month"
+      }
+    },
+    "ar-tn": {
+      "plan_details": {
+        "plan_title": "لايت",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "1.7 دولار أمريكي/شهر"
+      }
+    },
+    "en-ye": {
+      "plan_details": {
+        "plan_title": "LITE",
+        "plan_selection_button": "Start Your Trial",
+        "price": "2.4 USD/month"
+      }
+    },
+    "ar-ye": {
+      "plan_details": {
+        "plan_title": "لايت",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "2.4 دولار أمريكي/شهر"
+      }
+    },
+    "en-ps": {
+      "plan_details": {
+        "plan_title": "LITE",
+        "plan_selection_button": "Subscribe Now",
+        "price": "2.4 USD/month"
+      }
+    },
+    "ar-ps": {
+      "plan_details": {
+        "plan_title": "لايت",
+        "plan_selection_button": "اشترك الآن",
+        "price": "2.4 دولار أمريكي/شهر"
+      }
+    }
+  },
+  "classic": {
+    "en-eg": {
+      "plan_details": {
+        "plan_title": "CLASSIC",
+        "plan_selection_button": "Start Your Trial",
+        "price": "0.5 USD/month"
+      }
+    },
+    "ar-eg": {
+      "plan_details": {
+        "plan_title": "الأساسية",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "0.5 دولار أمريكي/شهر"
+      }
+    },
+    "en-ae": {
+      "plan_details": {
+        "plan_title": "CLASSIC",
+        "plan_selection_button": "Start Your Trial",
+        "price": "10.9 USD/month"
+      }
+    },
+    "ar-ae": {
+      "plan_details": {
+        "plan_title": "الأساسية",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "10.9 دولار أمريكي/شهر"
+      }
+    },
+    "en-dz": {
+      "plan_details": {
+        "plan_title": "CLASSIC",
+        "plan_selection_button": "Start Your Trial",
+        "price": "5.3 USD/month"
+      }
+    },
+    "ar-dz": {
+      "plan_details": {
+        "plan_title": "الأساسية",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "5.3 دولار أمريكي/شهر"
+      }
+    },
+    "en-dj": {
+      "plan_details": {
+        "plan_title": "CLASSIC",
+        "plan_selection_button": "Start Your Trial",
+        "price": "4.8 USD/month"
+      }
+    },
+    "ar-dj": {
+      "plan_details": {
+        "plan_title": "الأساسية",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "4.8 دولار أمريكي/شهر"
+      }
+    },
+    "en-td": {
+      "plan_details": {
+        "plan_title": "CLASSIC",
+        "plan_selection_button": "Start Your Trial",
+        "price": "4.8 USD/month"
+      }
+    },
+    "ar-td": {
+      "plan_details": {
+        "plan_title": "الأساسية",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "4.8 دولار أمريكي/شهر"
+      }
+    },
+    "en-iq": {
+      "plan_details": {
+        "plan_title": "CLASSIC",
+        "plan_selection_button": "Start Your Trial",
+        "price": "4.1 USD/month"
+      }
+    },
+    "ar-iq": {
+      "plan_details": {
+        "plan_title": "الأساسية",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "4.1 دولار أمريكي/شهر"
+      }
+    },
+    "en-jo": {
+      "plan_details": {
+        "plan_title": "CLASSIC",
+        "plan_selection_button": "Start Your Trial",
+        "price": "5.2 USD/month"
+      }
+    },
+    "ar-jo": {
+      "plan_details": {
+        "plan_title": "الأساسية",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "5.2 دولار أمريكي/شهر"
+      }
+    },
+    "en-lb": {
+      "plan_details": {
+        "plan_title": "CLASSIC",
+        "plan_selection_button": "Subscribe",
+        "price": "4.8 USD/month"
+      }
+    },
+    "ar-lb": {
+      "plan_details": {
+        "plan_title": "الأساسية",
+        "plan_selection_button": "اشترك",
+        "price": "4.8 دولار أمريكي/شهر"
+      }
+    },
+    "en-ma": {
+      "plan_details": {
+        "plan_title": "CLASSIC",
+        "plan_selection_button": "Start Your Trial",
+        "price": "3.9 USD/month"
+      }
+    },
+    "ar-ma": {
+      "plan_details": {
+        "plan_title": "الأساسية",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "3.9 دولار أمريكي/شهر"
+      }
+    },
+    "en-om": {
+      "plan_details": {
+        "plan_title": "CLASSIC",
+        "plan_selection_button": "Start Your Trial",
+        "price": "10 USD/month"
+      }
+    },
+    "ar-om": {
+      "plan_details": {
+        "plan_title": "الأساسية",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "10 دولار أمريكي/شهر"
+      }
+    },
+    "en-tn": {
+      "plan_details": {
+        "plan_title": "CLASSIC",
+        "plan_selection_button": "Start Your Trial",
+        "price": "3.4 USD/month"
+      }
+    },
+    "ar-tn": {
+      "plan_details": {
+        "plan_title": "الأساسية",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "3.4 دولار أمريكي/شهر"
+      }
+    },
+    "en-ye": {
+      "plan_details": {
+        "plan_title": "CLASSIC",
+        "plan_selection_button": "Start Your Trial",
+        "price": "4.8 USD/month"
+      }
+    },
+    "ar-ye": {
+      "plan_details": {
+        "plan_title": "الأساسية",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "4.8 دولار أمريكي/شهر"
+      }
+    },
+    "en-ps": {
+      "plan_details": {
+        "plan_title": "CLASSIC",
+        "plan_selection_button": "Subscribe Now",
+        "price": "4.8 USD/month"
+      }
+    },
+    "ar-ps": {
+      "plan_details": {
+        "plan_title": "الأساسية",
+        "plan_selection_button": "اشترك الآن",
+        "price": "4.8 دولار أمريكي/شهر"
+      }
+    }
+  },
+  "premium": {
+    "en-eg": {
+      "plan_details": {
+        "plan_title": "PREMIUM",
+        "plan_selection_button": "Start Your Trial",
+        "price": "1 USD/month"
+      }
+    },
+    "ar-eg": {
+      "plan_details": {
+        "plan_title": "بريميوم",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "1 دولار أمريكي/شهر"
+      }
+    },
+    "en-ae": {
+      "plan_details": {
+        "plan_title": "PREMIUM",
+        "plan_selection_button": "Start Your Trial",
+        "price": "16.3 USD/month"
+      }
+    },
+    "ar-ae": {
+      "plan_details": {
+        "plan_title": "بريميوم",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "16.3 دولار أمريكي/شهر"
+      }
+    },
+    "en-dz": {
+      "plan_details": {
+        "plan_title": "PREMIUM",
+        "plan_selection_button": "Start Your Trial",
+        "price": "8 USD/month"
+      }
+    },
+    "ar-dz": {
+      "plan_details": {
+        "plan_title": "بريميوم",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "8 دولار أمريكي/شهر"
+      }
+    },
+    "en-dj": {
+      "plan_details": {
+        "plan_title": "PREMIUM",
+        "plan_selection_button": "Start Your Trial",
+        "price": "7.2 USD/month"
+      }
+    },
+    "ar-dj": {
+      "plan_details": {
+        "plan_title": "بريميوم",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "7.2 دولار أمريكي/شهر"
+      }
+    },
+    "en-td": {
+      "plan_details": {
+        "plan_title": "PREMIUM",
+        "plan_selection_button": "Start Your Trial",
+        "price": "7.2 USD/month"
+      }
+    },
+    "ar-td": {
+      "plan_details": {
+        "plan_title": "بريميوم",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "7.2 دولار أمريكي/شهر"
+      }
+    },
+    "en-iq": {
+      "plan_details": {
+        "plan_title": "PREMIUM",
+        "plan_selection_button": "Start Your Trial",
+        "price": "6.2 USD/month"
+      }
+    },
+    "ar-iq": {
+      "plan_details": {
+        "plan_title": "بريميوم",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "6.2 دولار أمريكي/شهر"
+      }
+    },
+    "en-jo": {
+      "plan_details": {
+        "plan_title": "PREMIUM",
+        "plan_selection_button": "Start Your Trial",
+        "price": "8 USD/month"
+      }
+    },
+    "ar-jo": {
+      "plan_details": {
+        "plan_title": "بريميوم",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "8 دولار أمريكي/شهر"
+      }
+    },
+    "en-lb": {
+      "plan_details": {
+        "plan_title": "PREMIUM",
+        "plan_selection_button": "Subscribe",
+        "price": "7.2 USD/month"
+      }
+    },
+    "ar-lb": {
+      "plan_details": {
+        "plan_title": "بريميوم",
+        "plan_selection_button": "اشترك",
+        "price": "7.2 دولار أمريكي/شهر"
+      }
+    },
+    "en-ma": {
+      "plan_details": {
+        "plan_title": "PREMIUM",
+        "plan_selection_button": "Start Your Trial",
+        "price": "5.8 USD/month"
+      }
+    },
+    "ar-ma": {
+      "plan_details": {
+        "plan_title": "بريميوم",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "5.8 دولار أمريكي/شهر"
+      }
+    },
+    "en-om": {
+      "plan_details": {
+        "plan_title": "PREMIUM",
+        "plan_selection_button": "Start Your Trial",
+        "price": "15 USD/month"
+      }
+    },
+    "ar-om": {
+      "plan_details": {
+        "plan_title": "بريميوم",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "15 دولار أمريكي/شهر"
+      }
+    },
+    "en-tn": {
+      "plan_details": {
+        "plan_title": "PREMIUM",
+        "plan_selection_button": "Start Your Trial",
+        "price": "5.8 USD/month"
+      }
+    },
+    "ar-tn": {
+      "plan_details": {
+        "plan_title": "بريميوم",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "5.8 دولار أمريكي/شهر"
+      }
+    },
+    "en-ye": {
+      "plan_details": {
+        "plan_title": "PREMIUM",
+        "plan_selection_button": "Start Your Trial",
+        "price": "7.2 USD/month"
+      }
+    },
+    "ar-ye": {
+      "plan_details": {
+        "plan_title": "بريميوم",
+        "plan_selection_button": "ابدأ تجربتك",
+        "price": "7.2 دولار أمريكي/شهر"
+      }
+    },
+    "en-ps": {
+      "plan_details": {
+        "plan_title": "PREMIUM",
+        "plan_selection_button": "Subscribe Now",
+        "price": "7.2 USD/month"
+      }
+    },
+    "ar-ps": {
+      "plan_details": {
+        "plan_title": "بريميوم",
+        "plan_selection_button": "اشترك الآن",
+        "price": "7.2 دولار أمريكي/شهر"
+      }
+    }
+  }
+}

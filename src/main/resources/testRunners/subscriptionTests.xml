@@ -1,0 +1,185 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Subscription Smoke Test">
+    <test name="Egypt-Arabic Subscription Page">
+        <parameter name="country" value="egypt"></parameter>
+        <parameter name="language" value="arabic"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Egypt-English Subscription Page">
+        <parameter name="country" value="egypt"></parameter>
+        <parameter name="language" value="english"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="UAE-Arabic Subscription Page">
+        <parameter name="country" value="uae"></parameter>
+        <parameter name="language" value="arabic"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="UAE-English Subscription Page">
+        <parameter name="country" value="uae"></parameter>
+        <parameter name="language" value="english"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Algeria-Arabic Subscription Page">
+        <parameter name="country" value="algeria"></parameter>
+        <parameter name="language" value="arabic"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Algeria-English Subscription Page">
+        <parameter name="country" value="algeria"></parameter>
+        <parameter name="language" value="english"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Djibouti-Arabic Subscription Page">
+        <parameter name="country" value="djibouti"></parameter>
+        <parameter name="language" value="arabic"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Djibouti-English Subscription Page">
+        <parameter name="country" value="djibouti"></parameter>
+        <parameter name="language" value="english"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Chad-Arabic Subscription Page">
+        <parameter name="country" value="chad"></parameter>
+        <parameter name="language" value="arabic"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Chad-English Subscription Page">
+        <parameter name="country" value="chad"></parameter>
+        <parameter name="language" value="english"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Iraq-Arabic Subscription Page">
+        <parameter name="country" value="iraq"></parameter>
+        <parameter name="language" value="arabic"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Iraq-English Subscription Page">
+        <parameter name="country" value="iraq"></parameter>
+        <parameter name="language" value="english"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Jordon-Arabic Subscription Page">
+        <parameter name="country" value="jordan"></parameter>
+        <parameter name="language" value="arabic"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Jordon-English Subscription Page">
+        <parameter name="country" value="jordan"></parameter>
+        <parameter name="language" value="english"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Lebanon-Arabic Subscription Page">
+        <parameter name="country" value="lebanon"></parameter>
+        <parameter name="language" value="arabic"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Lebanon-English Subscription Page">
+        <parameter name="country" value="lebanon"></parameter>
+        <parameter name="language" value="english"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Morocco-Arabic Subscription Page">
+        <parameter name="country" value="morocco"></parameter>
+        <parameter name="language" value="arabic"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Morocco-English Subscription Page">
+        <parameter name="country" value="morocco"></parameter>
+        <parameter name="language" value="english"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Oman-Arabic Subscription Page">
+        <parameter name="country" value="oman"></parameter>
+        <parameter name="language" value="arabic"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Oman-English Subscription Page">
+        <parameter name="country" value="oman"></parameter>
+        <parameter name="language" value="english"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Tunisia-Arabic Subscription Page">
+        <parameter name="country" value="tunisia"></parameter>
+        <parameter name="language" value="arabic"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Tunisia-English Subscription Page">
+        <parameter name="country" value="tunisia"></parameter>
+        <parameter name="language" value="english"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Yemen-Arabic Subscription Page">
+        <parameter name="country" value="yemen"></parameter>
+        <parameter name="language" value="arabic"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Yemen-English Subscription Page">
+        <parameter name="country" value="yemen"></parameter>
+        <parameter name="language" value="english"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Palestine-Arabic Subscription Page">
+        <parameter name="country" value="palestine"></parameter>
+        <parameter name="language" value="arabic"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+    <test name="Palestine-English Subscription Page">
+        <parameter name="country" value="palestine"></parameter>
+        <parameter name="language" value="english"></parameter>
+        <classes>
+            <class name="tests.SubscriptionPageTests"/>
+        </classes>
+    </test>
+</suite>
